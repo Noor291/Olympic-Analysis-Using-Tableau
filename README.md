@@ -1,7 +1,7 @@
 # Olympic-Analysis-Using-Tableau
 - Analysis of Olympics data. 
 - The data was refined using Tableau Prep.
-
+<p>&nbsp;</p>
 
 > A brief glance at the dashboard and its components
  
